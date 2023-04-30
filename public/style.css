@@ -1,0 +1,15 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: darkgray;
+  background-image: url('img/rodwave.png');
+  
+
+}
+img{
+  height: 200px;
+}
+h1, p{
+  font:bold; 
+  color:goldenrod;
+}
